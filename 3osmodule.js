@@ -13,4 +13,4 @@ let osFunctions = {
 
 }
 
-console.log(osFunctions)
+console.table(osFunctions)
